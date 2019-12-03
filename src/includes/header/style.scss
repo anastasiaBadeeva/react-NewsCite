@@ -1,0 +1,28 @@
+.header {
+  background: #f7f7f7;
+  width: 960px;
+  min-height: 100px;
+  margin: 15px auto;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 25px;
+
+  .header_logo {
+    display: inline-block;
+    background: url("../../images/logo.png");
+    width: 126px;
+    height: 75px;
+    margin: auto 0;
+    background-size: cover;
+  }
+
+  .header_nav {
+    margin: 5px 0 auto 0;
+
+    > li {
+      padding: 20px;
+    }
+  }
+}
+

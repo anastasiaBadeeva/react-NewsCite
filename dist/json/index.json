@@ -1,0 +1,87 @@
+[{
+    "id": 0,
+    "title": "Creative",
+    "preview" : "http://spacema-studio.com/delphinus/wp-content/uploads/2017/05/gabriel-beaudry-93843-850x800.jpg",
+    "fulltext" : "Creativity is a phenomenon whereby something new and somehow valuable is formed. The created item may be intangible (such as an idea, a scientific theory, a musical composition, or a joke) or a physical object (such as an invention, a literary work, or a painting).",
+    "category" :"creative",
+    "status" : "top",
+    "date_post" : "Posted on Nov-18-16",
+    "comments" : [{
+        "email" : "bad21",
+        "name" : "Anastasia",
+        "comment" : "good,amazing fvedrfvdrfvredrfv"
+    },
+        {
+            "email" : "dima34",
+            "name" : "Dimych",
+            "comment" : "dfvdfvdf fggggggggggggggggggg fddddgtr"
+        }],
+    "body" : "Creativity is a phenomenon whereby something new and somehow valuable is formed. The created item may be intangible (such as an idea, a scientific theory, a musical composition, or a joke) or a physical object (such as an invention, a literary work, or a painting).“Creativity is a combinatorial force: it’s our ability to tap into our ‘inner’ pool of resources – knowledge, insight, information, inspiration and all the fragments populating our minds – that we’ve accumulated over the years just by being present and alive and awake to the world and to combine them in extraordinary new ways.” — Maria Popova, Brainpickings\n\n“Creativity is the process of bringing something new into being. Creativity requires passion and commitment. It brings to our awareness what was previously hidden and points to new life. The experience is one of heightened consciousness: ecstasy.” – Rollo May, The Courage to Create \n\nIs this possible in business? I believe so, but you have to be willing to take risks and progress through discomfort to get to the finish line.",
+    "gallery": ["https://cdn.everydaypower.com/wp-content/uploads/2014/08/Screen-Shot-2014-08-03-at-1.19.20-PM1.png","https://mymodernmet.com/wp/wp-content/uploads/2018/04/creative-block-inspiration-1.png","https://www.quotemaster.org/images/8b/8beb3d359616d2471359cbc9fb5bb74d.jpg"]
+},
+{
+    "id": 1,
+    "title": "Photography",
+    "preview" : "http://spacema-studio.com/delphinus/wp-content/uploads/2017/05/carl-heyerdahl-181868-850x800.jpg",
+    "fulltext" : "Photography is the art, application and practice of creating durable images by recording light or other electromagnetic radiation, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film. ",
+    "category" :"photography",
+    "status" : "new",
+    "date_post" : "Posted on Nov-18-16",
+    "comments" : [{
+        "email" : "bad21",
+        "name" : "Anastasia",
+        "comment" : "good,amazing fvedrfvdrfvredrfv"
+    },
+        {
+            "email" : "dima34",
+            "name" : "Dimych",
+            "comment" : "dfvdfvdf fggggggggggggggggggg fddddgtr"
+        }],
+    "body" : "Creativity is a phenomenon whereby something new and somehow valuable is formed. The created item may be intangible (such as an idea, a scientific theory, a musical composition, or a joke) or a physical object (such as an invention, a literary work, or a painting).“Creativity is a combinatorial force: it’s our ability to tap into our ‘inner’ pool of resources – knowledge, insight, information, inspiration and all the fragments populating our minds – that we’ve accumulated over the years just by being present and alive and awake to the world and to combine them in extraordinary new ways.” — Maria Popova, Brainpickings\n\n“Creativity is the process of bringing something new into being. Creativity requires passion and commitment. It brings to our awareness what was previously hidden and points to new life. The experience is one of heightened consciousness: ecstasy.” – Rollo May, The Courage to Create \n\nIs this possible in business? I believe so, but you have to be willing to take risks and progress through discomfort to get to the finish line.",
+    "gallery": ["https://i.pinimg.com/originals/a4/b7/c2/a4b7c2187bd5282c53b798d930327635.jpg","https://w4m4z6a7.stackpathcdn.com/images/i-walk-i-look.jpg","https://cdn.images.express.co.uk/img/dynamic/109/590x/camera-701696.jpg"]
+
+},
+    {
+        "id": 2,
+        "title": "Interior design",
+        "preview" : "http://spacema-studio.com/delphinus/wp-content/uploads/2017/05/breather-187923-850x800.jpg",
+        "fulltext" : "An interior designer is a person who creates a solution of any interior space. Also, he works on layout spaces of building and technical issues such as lighting, sounds, and temperature (air ducts).\n\nImportant things in interior designing include color balancing (matching colors), understanding how colors affect space and moods, knowledge of fabrics, building and electrical codes, and styles and trends.",
+        "category" :"design",
+        "status" : "top",
+        "date_post" : "Posted on Nov-18-16",
+        "comments" : [{
+            "email" : "bad21",
+            "name" : "Anastasia",
+            "comment" : "good,amazing fvedrfvdrfvredrfv"
+        },
+            {
+                "email" : "dima34",
+                "name" : "Dimych",
+                "comment" : "dfvdfvdf fggggggggggggggggggg fddddgtr"
+            }],
+        "body" : "Creativity is a phenomenon whereby something new and somehow valuable is formed. The created item may be intangible (such as an idea, a scientific theory, a musical composition, or a joke) or a physical object (such as an invention, a literary work, or a painting).“Creativity is a combinatorial force: it’s our ability to tap into our ‘inner’ pool of resources – knowledge, insight, information, inspiration and all the fragments populating our minds – that we’ve accumulated over the years just by being present and alive and awake to the world and to combine them in extraordinary new ways.” — Maria Popova, Brainpickings\n\n“Creativity is the process of bringing something new into being. Creativity requires passion and commitment. It brings to our awareness what was previously hidden and points to new life. The experience is one of heightened consciousness: ecstasy.” – Rollo May, The Courage to Create \n\nIs this possible in business? I believe so, but you have to be willing to take risks and progress through discomfort to get to the finish line.",
+        "gallery": ["https://d4qwptktddc5f.cloudfront.net/easy_thumbnails/thumbs_WorkshopAPD-CentralParkDuplex.jpg.770x0_q95_crop-smart_upscale.jpg","https://cdn.homedit.com/wp-content/uploads/2011/11/basic-office-interior-design-betillon.jpg"]
+
+    },
+    {
+        "id": 3,
+        "title": "Interior design",
+        "preview" : "http://spacema-studio.com/delphinus/wp-content/uploads/2017/05/naomi-hebert-188443-850x800.jpg",
+        "fulltext" : "Interior design is the art and science of enhancing the interior of a building to achieve a healthier and more aesthetically pleasing environment for the people using the space. An interior designer is someone who plans, researches, coordinates, and manages such projects. Interior design is a multifaceted profession that includes conceptual development, space planning, site inspections, programming, research, communicating with the stakeholders of a project, construction management, and execution of the design.",
+        "category" :"design",
+        "status" : "new",
+        "date_post" : "Posted on Nov-18-16",
+        "comments" : [{
+            "email" : "bad21",
+            "name" : "Anastasia",
+            "comment" : "good,amazing fvedrfvdrfvredrfv"
+        },
+            {
+                "email" : "dima34",
+                "name" : "Dimych",
+                "comment" : "dfvdfvdf fggggggggggggggggggg fddddgtr"
+            }],
+        "body" : "Creativity is a phenomenon whereby something new and somehow valuable is formed. The created item may be intangible (such as an idea, a scientific theory, a musical composition, or a joke) or a physical object (such as an invention, a literary work, or a painting).“Creativity is a combinatorial force: it’s our ability to tap into our ‘inner’ pool of resources – knowledge, insight, information, inspiration and all the fragments populating our minds – that we’ve accumulated over the years just by being present and alive and awake to the world and to combine them in extraordinary new ways.” — Maria Popova, Brainpickings\n\n“Creativity is the process of bringing something new into being. Creativity requires passion and commitment. It brings to our awareness what was previously hidden and points to new life. The experience is one of heightened consciousness: ecstasy.” – Rollo May, The Courage to Create \n\nIs this possible in business? I believe so, but you have to be willing to take risks and progress through discomfort to get to the finish line.",
+        "gallery": ["https://d4qwptktddc5f.cloudfront.net/easy_thumbnails/thumbs_WorkshopAPD-CentralParkDuplex.jpg.770x0_q95_crop-smart_upscale.jpg","https://cdn.homedit.com/wp-content/uploads/2011/11/basic-office-interior-design-betillon.jpg"]
+    }
+]
